@@ -9,9 +9,9 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 
 import java.util.Map;
-
 /**
  * xxl-job executor (for spring)
+
  *
  * @author xuxueli 2018-11-01 09:24:52
  */
